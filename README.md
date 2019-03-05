@@ -62,11 +62,3 @@ Tpay是微信和支付宝的个人免签 24小时全自动回调支付系统的p
  - 技术支持：QQ-->937013765
  - 项目测试：http://wwww.paohuituan.com/pay
  
- 
-### Tpay：感谢捐赠
-
- ![](https://images.gitee.com/uploads/images/2019/0226/113230_b45c840e_423953.png) 
-
-
- ![](https://images.gitee.com/uploads/images/2019/0226/113229_f7c91889_423953.png)
- 
